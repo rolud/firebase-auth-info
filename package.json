@@ -1,10 +1,10 @@
 {
   "name": "firebase-auth-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line utility to generated firebase auth token.",
   "main": "index.js",
   "bin": {
-    "firebase-auth-helper": "bin/index.js"
+    "firebase-auth-info": "bin/index.js"
   },
   "author": "Rocco Luigi Scarcella (rolud.dev@gmail.com)",
   "license": "ISC",

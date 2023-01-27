@@ -61,5 +61,5 @@ In order to generate firebase config file:
 ```
 
 
-[npmjs-badge]: https://img.shields.io/npm/v/rolud/firebase-auth-info.svg?logo=npm
-[npmjs-com]: https://www.npmjs.com/package/rolud/firebase-auth-info
+[npmjs-badge]: https://img.shields.io/npm/v/firebase-auth-info.svg?logo=npm
+[npmjs-com]: https://www.npmjs.com/package/firebase-auth-info
