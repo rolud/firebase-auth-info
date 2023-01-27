@@ -57,7 +57,7 @@ In order to generate firebase config file:
   "messagingSenderId": "XXXXXXXXXXXXXX",
   "appId": "X:XXXXXXXXXXXX:web:XXXXXXXXXXXXXXX",
   "measurementId": "X-XXXXXXXX"
-};
+}
 ```
 
 
