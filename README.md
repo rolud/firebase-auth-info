@@ -8,24 +8,31 @@
 
 Command line utility to generated firebase authenticated info.
 
+## Installation
+
+```
+npm install -g firebase-auth-info
+```
+
+
 ## Usage
 
 ```
-npx firebase-auth-info path_to_firebase_config.json options
+firebase-auth-info path_to_firebase_config.json options
 ```
 
 ### Options
 
 - `--anonymously`, `-a`: anonymous authentication
     ```
-    npx firebase-auth-info path_to_firebase_config.json --anonymously
+    firebase-auth-info path_to_firebase_config.json --anonymously
     ```
 
     > Requires anonymously authentication provider enabled
 
 - `--create`, `-c`: create user with email and password
     ```
-    npx firebase-auth-info path_to_firebase_config.json --create <email> <password>
+    firebase-auth-info path_to_firebase_config.json --create <email> <password>
     ```
 
     > Requires email/password authentication provider enabled
@@ -33,7 +40,7 @@ npx firebase-auth-info path_to_firebase_config.json options
 
 - `--signin`, `-s`: sign in with email and password
     ```
-    npx firebase-auth-info path_to_firebase_config.json --signin <email> <password>
+    firebase-auth-info path_to_firebase_config.json --signin <email> <password>
     ```
 
     > Requires email/password authentication provider enabled

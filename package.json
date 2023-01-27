@@ -1,6 +1,6 @@
 {
   "name": "firebase-auth-info",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Command line utility to generated firebase auth token.",
   "main": "index.js",
   "bin": {
